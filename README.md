@@ -147,6 +147,9 @@ Enter book title to return: Harry Potter
 Book returned successfully.
 ```
 
+Photos of output
+<img width="409" height="816" alt="Screenshot 2026-03-28 022143" src="https://github.com/user-attachments/assets/e8161898-56d3-4513-9337-e2e12d43eb41" />
+
 ---
 
 ## Key Programming Concepts Demonstrated
